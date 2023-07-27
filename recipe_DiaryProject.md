@@ -11,7 +11,7 @@ class DiaryEntry:
 
         Parameters:
             title: a string containing the title
-            text: a text containing the contents
+            contents: a text containing the contents
 
         Returns:
             nothing
