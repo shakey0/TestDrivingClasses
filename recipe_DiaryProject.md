@@ -47,8 +47,6 @@ class DiaryEntry:
 3. Create Examples as Tests
 Make a list of examples of what the function will take and return.
 
-# EXAMPLE
-
 Testing for .format():
     Initialise class:
         garden_chores = DiaryEntry("Garden Chores", "You need to cut the grass and then trim the edges of the lawn, then pull out as many weeds as you can from the flowerbeds, and finally trim the hedges next to the shed.")

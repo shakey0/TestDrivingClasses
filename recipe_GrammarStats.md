@@ -24,8 +24,6 @@ class GrammarStats:
 3. Create Examples as Tests
 Make a list of examples of what the function will take and return.
 
-# EXAMPLE
-
 Testing for starting capital and ending punctuation mark is correct:
     Initialise class:
         check_grammar = GrammarStats()
