@@ -1,4 +1,3 @@
-import pytest
 from lib.GrammarChecker import *
 
 def test_grammar_stats_start_and_end_correct():

@@ -10,7 +10,6 @@ I want to mark tasks as complete and have them disappear from the list.
 
 
 2. Design the Class Signature
-Include the name of the class, its methods with their parameters, return values, and side effects.
 
 class Reminder:
     # User-facing properties:
@@ -43,7 +42,6 @@ class Reminder:
 
 
 3. Create Examples as Tests
-Make a list of examples of what the function will take and return.
 
 """
 Given a task

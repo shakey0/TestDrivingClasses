@@ -1,5 +1,3 @@
-import math
-
 class DiaryEntry:
 
     def __init__(self, title, contents):

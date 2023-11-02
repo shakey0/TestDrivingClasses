@@ -3,7 +3,6 @@ A class that tests and stores texts for correct grammar (starting with a capital
 
 
 2. Design the Class Signature
-Include the name of the class, its methods with their parameters, return values, and side effects.
 
 class GrammarStats:
 
@@ -22,7 +21,6 @@ class GrammarStats:
 
 
 3. Create Examples as Tests
-Make a list of examples of what the function will take and return.
 
 Testing for starting capital and ending punctuation mark is correct:
     Initialise class:

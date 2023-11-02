@@ -1,4 +1,3 @@
-import pytest
 from lib.DiaryProject import *
 
 def test_DiaryProject_format():

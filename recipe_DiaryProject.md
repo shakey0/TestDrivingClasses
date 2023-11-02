@@ -3,7 +3,6 @@ A class that stores the title and contents of a text
 
 
 2. Design the Class Signature
-Include the name of the class, its methods with their parameters, return values, and side effects.
 
 class DiaryEntry:
 
@@ -45,7 +44,6 @@ class DiaryEntry:
 
 
 3. Create Examples as Tests
-Make a list of examples of what the function will take and return.
 
 Testing for .format():
     Initialise class:
